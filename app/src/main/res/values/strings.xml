@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tech Quotes2</string>
+    <string name="tech_quotes" translatable="false">\"Technology is only great when it works.\" - Cassie Calderon</string>
+    <string name="action_setting">Settings</string>
+</resources>
